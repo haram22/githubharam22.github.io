@@ -6,7 +6,7 @@
 - 산책하기
 - 별보기
 
-<img src="https://post-phinf.pstatic.net/MjAxNzA0MThfMTE4/MDAxNDkyNTAwNTAyNzE3.bl1_gmuDH4aJK7-ijYfT3HjEkBGKG0HSydtIYw_qtVcg.0uYoS4IdqdMNRcfVaHQOh1B9YqVic0CmkO0vHfHNn6og.GIF/3489499279.gif?type=w1200" width: 500, height: 300>
+<img src="https://post-phinf.pstatic.net/MjAxNzA0MThfMTE4/MDAxNDkyNTAwNTAyNzE3.bl1_gmuDH4aJK7-ijYfT3HjEkBGKG0HSydtIYw_qtVcg.0uYoS4IdqdMNRcfVaHQOh1B9YqVic0CmkO0vHfHNn6og.GIF/3489499279.gif?type=w1200">
 
 
 글작성하기 위해 마크다운을 공부해서 
